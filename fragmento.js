@@ -10,4 +10,4 @@ class BadFilmComponent extends HTMLElement {
     }
 }
 
-customElements.define("dalo", BadFilmComponent)
+customElements.define("dalo-12", BadFilmComponent);
